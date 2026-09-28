@@ -16,11 +16,11 @@ The group's objective is combining Numerical Linear Algebra, Deep Learning, and 
 
 ## Current Projects
 
- - Limits of Local Credit Assignment: Deterministic and Stochastic Bounds (J.A.E.V. and G.A.R.H)
+ - *Limits of Local Credit Assignment: Deterministic and Stochastic Bounds* (J.A.E.V. and G.A.R.H)
 
- - A Possible Learning Mechanics (J.A.H., J.A.E.V. and G.A.R.H.)
+ - *A Possible Learning Mechanics* (J.A.H., J.A.E.V. and G.A.R.H.)
 
- - Learning Low Modes in Schwinger Using E-prop, RNNs and Auto-Encoders (J.A.H., J.A.E.V., G.A.R.H., J.F.N.C. and J.F.F.)
+ - *Learning Low Modes in Schwinger Using E-prop, RNNs and Auto-Encoders* (J.A.H., J.A.E.V., G.A.R.H., J.F.N.C. and J.F.F.)
 
 ## Publications
 

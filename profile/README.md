@@ -8,7 +8,7 @@ The group's objective is combining Numerical Linear Algebra, Deep Learning, and 
  - Gustavo Alonso Ramírez Hidalgo (G.A.R.H.; postdoc @ Technische Universiteit Eindhoven)
  - Jorge André Hernández (J.A.H.; undergrad @ Universidad de Costa Rica)
 
-## Some recent news
+## Upcoming Events and Recent News
 
  - J.A.E.V. and G.A.R.H. will be presenting a poster in [SNUFA 2026](https://snufa.net/2026/) in November 2026
 
